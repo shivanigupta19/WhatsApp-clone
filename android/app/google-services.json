@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "162018452943",
+    "firebase_url": "https://firstflutterfirebase-4a9f3.firebaseio.com",
+    "project_id": "firstflutterfirebase-4a9f3",
+    "storage_bucket": "firstflutterfirebase-4a9f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162018452943:android:c41373a8cff70a00db1eba",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162018452943-bo6tn0hrarnfheq7eu0m9roeu922sf4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATnGz1MMsCHClECP2sLex9kvzHtZ_c0aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162018452943-bo6tn0hrarnfheq7eu0m9roeu922sf4q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162018452943-7pmsb2f41hhque8heleh882v2ffg88cq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
